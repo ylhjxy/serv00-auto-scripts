@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1> serv00-auto-scripts </h1>
+<h2> serv00-auto-scripts </h2>
 
 <p>Serv00/CT8 - 免费主机自动续期（自动SSH以及PM2）及其他脚本。</p>
 
