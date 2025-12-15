@@ -2,7 +2,7 @@
    <strong>中文</strong> | <a href="README.md">English</a>
 </div>
 
-<img src="https://www.serv00.com/static/ct8/img/logo.jpg" alt="serv00 logo" width="50" height="50" align="right" />
+<img src="https://www.serv00.com/wp-content/themes/serv00/public/svg/logo.svg" alt="serv00 logo" width="50" height="50" align="right" />
 
 <div align="center">
 
